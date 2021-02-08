@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## HTTP and AJAX calls by `axios`
+
+This application is a simple example to explain how to use `axios` in HTTP and AJAX calls and how to use and implement some features of `axios` like 'Interceptors' and 'Instances'
+
 ## Available Scripts
 
 In the project directory, you can run:
